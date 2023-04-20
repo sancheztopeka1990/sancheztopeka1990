@@ -17,8 +17,6 @@
 
 - Being a  strong advocate and collaborating professional with an emphasis on self and peer development, organizational communication, relationship building/management. I strive to use creativity, strategic planning, and of course a stellar sense of humor and positivity to accomplish meaningful and purposeful task, but also have the empathy to understand everyone from customers to co-workers may struggle; being there in whatever way I can is my goal during those times is one of a few of my daily goals; we are all in this together.
 
-- I have a big family, a few friends, and some decent connections! I love to help others when I can (sometimes too much), but sometimes I need help too! So, let's all agree to just be nice, help each other out, and without all that weird judgmental crap, be your true genuine self and so will I; and I'll still love you [ somedays... ;-) ] for it!  - we are all in this together! I love to talk, chat or just help in anyway I can - Let me know what I can do!
-
 - ⚒️ - I’m looking to collaborate on projects using HTML, CSS, JavaScript, C#, React.JS, ASP.NET, MS SQL and more! I'd personally love to work on a project with someone who has a different stack education so we can learn from and grow with one another. 
 
 - 📫 - How to reach me: Email would be awesome, sancheztopeka1990@gmail.com, or linkedIn (https://www.linkedin.com/in/jareddsanchez/).
