@@ -30,6 +30,9 @@ The project includes:
 - GRC analytics dashboard
 - Python risk-scoring automation
 
+- <img width="2523" height="1291" alt="image" src="https://github.com/user-attachments/assets/d9fa8e68-49c2-493e-88e9-397ba314a1d5" />
+
+
 [View the Live Portfolio](https://sancheztopeka1990.github.io/)  
 [View the Repository](https://github.com/sancheztopeka1990/sancheztopeka1990.github.io)
 
