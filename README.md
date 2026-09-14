@@ -1,26 +1,45 @@
-- 👋 - Hi, I’m @sancheztopeka1990 AKA Jared Sanchez!
+# Hi, I'm Jared Sanchez
 
-- 👀 - I’m interested in utilzing Software Development & Engineering, Self Development,  Coding & Technology to impact organizational success and for Community Outreach, eqaulity for all, and socioeconmic change!
+U.S. Army veteran and IT professional with experience supporting and developing government applications. My background includes application support, software development, business requirements, testing, troubleshooting, cybersecurity risk, and technical documentation.
 
-- 🌱 - I am a certified Software Engineer and Web Developer with Front End focus on HTML5, CSS3, and JavaScript;; but am fortunate enough to have experience in jQuery, C#, SQL, .NET, Node.Js, API, Ajax & Axios calls, Postman, React.js, Notepad++,  and Git/GitHub (I'm also a self-certified. holistic stack overflow & Google user).
+## Core Skills
 
-- 🏢 -I am currently working at the State of Kansas as an Application Developer utilizing the skills I learned during my educational pursuit; and picking up new ones as well - Yee Haw!
+- GRC and cybersecurity risk assessment
+- Business and systems analysis
+- Application support and troubleshooting
+- Requirements gathering, testing, and UAT
+- C#, .NET, SQL, JavaScript, and Python
+- Microsoft Azure, Microsoft 365, and SharePoint
+- Git, GitHub, APIs, Postman, and Visual Studio
 
-- 💗 - Here are some things I am excited about! ↓
+## Featured Project
 
-- I am currently working towards a certificate in IT automation with Python with Hiring Our Heroes through Coursera Learning/Google Career Certificates. 
-- Come mid-to-end July of 2023, I will be taking further certification courses to sharpen my development skills, and pursue new skills!(Java, Python, Software Development, and Azure fundamentals and computing through a Veterans Affairs Program.
+### Trainory GRC & Cybersecurity Portfolio
 
-- 💪 - A few proud achievements!  ↓
+A practical GRC portfolio built around a fictional fitness technology company. It demonstrates how I identify cybersecurity risks, evaluate controls, apply the NIST Cybersecurity Framework 2.0, organize audit evidence, and communicate recommendations.
 
-- Finding work in social service; albeit a temporary career choice, it provided me with a wealth of skills and a different mindset working with persons who suffer from incarceration, mental health disabilities,  substance use disorders and behavior and character flaws .  I am very passionate about changes revolving the dynamics regarding these issues in our world,  and am always open for dialogue. During my time in this field; I learned several unmatched soft skills in this work, but more importantly I learned how to be more compassionate and sympathetic towards others.
+The project includes:
 
-- Being a  strong advocate and collaborating professional with an emphasis on self and peer development, organizational communication, relationship building/management. I strive to use creativity, strategic planning, and of course a stellar sense of humor and positivity to accomplish meaningful and purposeful task, but also have the empathy to understand everyone from customers to co-workers may struggle; being there in whatever way I can is my goal during those times is one of a few of my daily goals; we are all in this together.
+- Cybersecurity asset inventory
+- Risk register and treatment plans
+- NIST CSF 2.0 assessment
+- Access control policy
+- Incident response plan
+- Third-party vendor assessment
+- Access review and audit evidence
+- GRC analytics dashboard
+- Python risk-scoring automation
 
-- ⚒️ - I’m looking to collaborate on projects using HTML, CSS, JavaScript, C#, React.JS, ASP.NET, MS SQL and more! I'd personally love to work on a project with someone who has a different stack education so we can learn from and grow with one another. 
+[View the Live Portfolio](https://sancheztopeka1990.github.io/)  
+[View the Repository](https://github.com/sancheztopeka1990/sancheztopeka1990.github.io)
 
-- 📫 - How to reach me: Email would be awesome, sancheztopeka1990@gmail.com, or linkedIn (https://www.linkedin.com/in/jareddsanchez/).
-<!---
-sancheztopeka1990/sancheztopeka1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Current Focus
+
+- Pursuing a BAS in Computer Information Systems
+- Developing practical GRC and cybersecurity skills
+- Preparing for CompTIA Security+
+- Exploring GRC, business analyst, application support, and technology roles
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jareddsanchez/) | [Portfolio](https://sancheztopeka1990.github.io/)
